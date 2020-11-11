@@ -114,7 +114,7 @@ __________
 TLV,
 Israel; 
 
-Our Android & iOS support at : wame.ltd@gmail.com
+Our support at : wame.ltd@gmail.com
 
 12. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
